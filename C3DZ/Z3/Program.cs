@@ -5,12 +5,12 @@ int cube = Convert.ToInt32(Console.ReadLine());
  
 void Cube(int[] cube)
 { 
-  int counter = 0; 
+  int totalizer = 0; 
   int length = cube.Length; 
-  while (counter <  length)
+  while (totalizer <  length)
   { 
-    cube[counter] = Convert.ToInt32(Math.Pow(counter, 3)); 
-    counter++; 
+    cube[totalizer] = Convert.ToInt32(Math.Pow(totalizer, 3)); 
+    totalizer++; 
   } 
 } 
  
