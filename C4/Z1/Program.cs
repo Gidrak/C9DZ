@@ -1,7 +1,8 @@
 ﻿// Напишите прогамму, которая на входе принимает число и выдает количество цифр в числе.
 // 1й вариант
+Console.Clear();
 int num = GetNumberFromUser("Введите целое число A: ","Ошибка ввода!");
-Console.WriteLine("Количество цифр в числе");
+Console.WriteLine("Количество цифр в числе: ");
 int sumNumbers = GetSumNumbers(num);
 Console.WriteLine($"\t{num} -> {sumNumbers} -> Это был 1й вариант");
 
@@ -42,4 +43,4 @@ int CounNember(int num)
 Console.WriteLine("Введите любое число: ");
 number = int.Parse(Console.ReadLine()??"");
 number = CounNember(number);
-Console.WriteLine($"Число состоит из {number} цифр -> А это 2й");
+Console.WriteLine($"Число состоит из {number} цифр -> А это 2й Вариант");
