@@ -1,0 +1,15 @@
+C:\Git_T\C8DZ\C8DZ2\bin\Debug\net6.0\C8DZ2.exe
+C:\Git_T\C8DZ\C8DZ2\bin\Debug\net6.0\C8DZ2.deps.json
+C:\Git_T\C8DZ\C8DZ2\bin\Debug\net6.0\C8DZ2.runtimeconfig.json
+C:\Git_T\C8DZ\C8DZ2\bin\Debug\net6.0\C8DZ2.dll
+C:\Git_T\C8DZ\C8DZ2\bin\Debug\net6.0\C8DZ2.pdb
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.csproj.AssemblyReference.cache
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.AssemblyInfoInputs.cache
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.AssemblyInfo.cs
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.csproj.CoreCompileInputs.cache
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.dll
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\refint\C8DZ2.dll
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.pdb
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\C8DZ2.genruntimeconfig.cache
+C:\Git_T\C8DZ\C8DZ2\obj\Debug\net6.0\ref\C8DZ2.dll
